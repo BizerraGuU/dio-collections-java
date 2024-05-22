@@ -1,6 +1,8 @@
 # dio-collections-java
 Este é um repositório com alguns exercícios de Collection Java: List, Set Interface, Map Interface.
 
+Clique [aqui](https://github.com/cami-la/collections-java-api-2023) para acessar a estes e todos os demais exercícios.
+
 # List
 
 ### Operações Básicas com List
