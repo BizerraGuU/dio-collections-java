@@ -5,7 +5,7 @@ Este é um repositório com alguns exercícios de Collection Java: List, Set Int
 
 ### Operações Básicas com List
 
-##### Carrinho de Compras:
+##### [Carrinho de Compras](https://github.com/BizerraGuU/dio-collections-java/tree/main/List/src/list):
 
 <p>Crie uma classe chamada "CarrinhoDeCompras" que representa um carrinho de compras online. O carrinho deve ser implementado como uma lista de itens. Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade. Implemente os seguintes métodos:
 
