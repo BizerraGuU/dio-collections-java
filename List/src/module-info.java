@@ -1,2 +1,2 @@
-module List {
+module PesquisaList {
 }
