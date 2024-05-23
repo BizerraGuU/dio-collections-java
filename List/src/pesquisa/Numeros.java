@@ -1,4 +1,4 @@
-package list;
+package pesquisa;
 
 public class Numeros {
 	

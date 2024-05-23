@@ -3,8 +3,6 @@ package pesquisa;
 import java.util.ArrayList;
 import java.util.List;
 
-import list.Numeros;
-
 public class SomaNumeros {
 
 	public List<Numeros> listaDeNumeros;
