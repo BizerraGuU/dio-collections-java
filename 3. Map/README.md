@@ -1,6 +1,8 @@
 # dio-collections-java
 Este é um repositório com alguns exercícios de Collection Java:  Map
 
+Clique [aqui](https://github.com/cami-la/collections-java-api-2023/tree/master/out/production/collections-java-api-2023/main/java/map) para acessar a estes e todos os demais exercícios.
+
 ### Operações Básicas com Map
 
 ##### Dicionário
