@@ -19,7 +19,7 @@ Clique [aqui](https://github.com/cami-la/collections-java-api-2023) para acessar
 
 ### Pesquisa em List
 
-##### Soma de Números
+##### [Soma de Números](https://github.com/BizerraGuU/dio-collections-java/tree/main/List/src/pesquisa)
 
 <p> Crie uma classe chamada "SomaNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
 
@@ -32,7 +32,7 @@ Clique [aqui](https://github.com/cami-la/collections-java-api-2023) para acessar
 
 ### Ordenação em List
 
-##### Ordenação de Números
+##### [Ordenação de Números](https://github.com/BizerraGuU/dio-collections-java/tree/main/List/src/ordenacao)
 
 <p>Crie uma classe chamada "OrdenacaoNumeros" que possui uma lista de números inteiros como atributo. Implemente os seguintes métodos:
 
